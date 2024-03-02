@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" fx:id="img2" prefHeight="491.0" prefWidth="666.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controladores.RespuestaController">
+   <children>
+      <ImageView fitHeight="523.0" fitWidth="741.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/fb893976-fdc2-424f-a453-29a4430376fe.jpg" />
+         </image>
+      </ImageView>
+      <TextArea fx:id="textoRespuesta" editable="false" layoutX="152.0" layoutY="171.0" prefHeight="248.0" prefWidth="266.0" style="-fx-background-color: transparent; -fx-background-image: grey;" wrapText="true" />
+      <Button fx:id="exit" layoutX="590.0" layoutY="22.0" mnemonicParsing="false" onAction="#exit" onMouseEntered="#zoomUpExit" onMouseExited="#zoomDownExit" style="-fx-background-color: transparent;" text="SALIR">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="volver" layoutX="14.0" layoutY="486.0" mnemonicParsing="false" onAction="#volver" onMouseEntered="#zoomUpVolver" onMouseExited="#zoomDownVolver" style="-fx-background-color: transparent;" text="VOLVER">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

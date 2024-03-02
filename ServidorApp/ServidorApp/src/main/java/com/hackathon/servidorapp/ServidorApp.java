@@ -5,8 +5,7 @@
 package com.hackathon.servidorapp;
 
 import com.hackathon.servidorapp.hilo.HilosServidor;
-import java.io.DataInputStream;
-import java.io.DataOutputStream;
+import com.hackathon.servidorapp.hilo.Metodos;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -23,6 +22,7 @@ public class ServidorApp {
         
         try {
             ServerSocket serverSocket = new ServerSocket(puerto);
+            Metodos.init();
             System.out.println("Servidor escuchando en el puerto " + puerto);
 
           do {
