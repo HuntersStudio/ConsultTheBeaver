@@ -16,7 +16,7 @@ import java.net.URL;
 public class Metodos {
 
     public static void init() {
-        String texto = "Te voy a pedir informacion sobre una actividad en la naturaleza en una zona que indicare mas tarde, donde busco que me digas "
+        String texto = "A partir de ahora todas las consultas que te voy a hacer me tienes que proporcionar informacion sobre una actividad en la naturaleza en una zona que indicare mas tarde, donde busco que me digas "
                 + "lugares a los que ir clasificados en 3 tipos segun el riego de incendios de la zona sinedo 1 bajo riesgo, 2 riesgo medio y 3 alto riesgo.\n"
                 + "Interesa que me digas el lugar, el tipo de actividades que puedan hacer y las que estan prohibidas en base a la epoca del año que te comunique"
                 + "Por ejemplo, en verano hay zonas en las que esta prohibido hacer fuegos, busca informacion sobre eso y comunicamelas.\n"
@@ -25,7 +25,7 @@ public class Metodos {
                 + "La respuesta tiene que estar en español.\n"
                 + "Si te doy informacion poco precisa o no relacionada con el tema de forma que no puedas dar una respuesta de calidad notificame la informacion"
                 + " que necesitas para una respuesta de alta calidad.\n"
-                + "La estructura seria la siguiente:\n"
+                + "La estructura consta de un primer menu en el que selecciones diferentes sitios para hacer la actividad especificada mas tarde segun el nivel de riesgo de incredio de la siguiente manera:\n"
                 + "- Nivel de riesgo de incendio\n"
                 + "  - Lugares a los que ir:\n"
                 + "     - Informacion sobre el sitio.\n"
