@@ -23,7 +23,7 @@ Bienvenido al repositorio de **Hack2Progess2024**, el proyecto que presentamos e
 ## Uso
 
 1. Inicia la aplicación.
-![Ventana principal de la aplicación](retoHack/src/main/resources/img/WhatsApp Image 2024-03-02 at 15.21.42.jpeg)
+![Ventana principal de la aplicación](retoHack/src/main/resources/img/WhatsApp Image 2024-03-02 at 15.02.13.jpeg)
 
 2. Pulsa el botón de EMPEZAR para proceder al formulario de uso o AYUDA para mostrar una guía breve sobre prevención de incendios.
 ![Ventana de AYUDA para prevenir incendios](retoHack/src/main/resources/img/cartel.png)
