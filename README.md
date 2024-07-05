@@ -20,10 +20,18 @@ Bienvenido al repositorio de **Hack2Progess2024**, el proyecto que presentamos e
 - **Interfaz Gráfica:** JavaFX
 - **Diseño Gráfico:** Completamente realizado por nuestro equipo
 
-## Instalación
+## Uso
 
-Para ejecutar la aplicación en tu máquina local, sigue estos pasos:
+1. Inicia la aplicación.
+2. Pulsa el botón de EMPEZAR para proceder al formulario de uso o AYUDA para mostrar una guía breve sobre prevención de incendios.
+3. En el formulario de uso, ingresa la información requerida:
+   - Actividad que vas a realizar.
+   - Lugar donde planeas realizar la actividad.
+   - Estación del año.
+   - Número de personas.
+4. La aplicación procesará la información y te proporcionará una evaluación del riesgo de incendios y consejos para prevenir problemas.
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/your-username/Hack2Progess2024.git
+## Autores
+
+Este proyecto ha sido desarrollado por el equipo de estudiantes **The Hunters Studio**.
+
