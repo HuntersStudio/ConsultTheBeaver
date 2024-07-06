@@ -1,6 +1,6 @@
-# Hack2Progress2024
+# Consult The Beaver
 
-Bienvenido al repositorio de **Hack2Progess2024**, el proyecto que presentamos en la hackathon Hack2Progress de la edición de 2024, realizada en Santander, Cantabria. Este proyecto aborda la temática de **incendios forestales** y tiene como objetivo evaluar los riesgos de incendios en ciertos lugares para ayudar a prevenir problemas.
+Bienvenido al repositorio de **Consult The Beaver**, el proyecto que presentamos en la hackathon Hack2Progress de la edición de 2024, realizada en Santander, Cantabria. Este proyecto aborda la temática de **incendios forestales** y tiene como objetivo evaluar los riesgos de incendios en ciertos lugares para ayudar a prevenir problemas.
 
 ## Descripción del Proyecto
 
